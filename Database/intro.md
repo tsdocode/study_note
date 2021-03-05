@@ -25,7 +25,7 @@ Biểu diễn bằng các bảng
 
 ## Entity- Relation Model 
 
-![hello](./Database/pics/erd.png)
+![hello](./pics/erd.png)
 
 Tập hợp những thực thể có thuộc tính giống nhau => Tập thực thể
 Các mỗi quan hệ 
