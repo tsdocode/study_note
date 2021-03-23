@@ -76,7 +76,7 @@ Switch
   - X tốc độ 1Gbps
   - 0 X tốc độ 100 Mbps
   
-  switch hoc các interface
+  switch hoc các interface 
   Time stamp <= 60p
   Phân chia độc lập các subnet trở thành vùng tranh chấp
 
